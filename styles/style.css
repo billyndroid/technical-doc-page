@@ -1,10 +1,20 @@
 html {
-
+background-color: #BF2C53 ;
+}
+#navbar {
+background-color:  #012619;
+position: fixed;
+}
+#header {
+background-color: #F2F2F2;
 }
 #main-doc {
-
+background-color: #262626;
 }
 .main-section {
+    background-color: #73293D;
+}
+@media all and {
 
 }
 /* Color Theme Swatches in Hex 
